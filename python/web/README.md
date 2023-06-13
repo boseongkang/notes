@@ -1,4 +1,7 @@
 Creating a new website as a home page -> `python manage.py home` not working 
+-> `python manage.py startapp ~` to make a new directory write any folder name after startapp
+admin.py, apps.py, models.py, tests.py, views.py will automatically create
+
 So create manually. 
 Create :
 
